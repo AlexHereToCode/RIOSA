@@ -1,2 +1,2 @@
-NAME: Joseoh Riosa
+NAME: Joseph Riosa
 DATE STARTED: 04/17/2023
