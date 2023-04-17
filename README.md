@@ -1,1 +1,2 @@
-# RIOSA
+NAME: Joseoh Riosa
+DATE STARTED: 04/17/2023
